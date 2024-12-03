@@ -6,4 +6,11 @@ I created this script just for my personal use if you want to use it you can als
 
 I have also included my own config files in this that is customized to my own liking you can clone this repositry and put the files in ~/.config to use my setup
 
+To Get Started:
+sudo pacman -S git
+git clone https://github.com/sanjivthapasvt/ArchLinux.git
+cd ArchLinux
+chmod +x install.sh
+./install.sh
+
 Thank you have fun!!

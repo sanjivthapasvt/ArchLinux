@@ -7,7 +7,7 @@ sudo pacman -Syu --noconfirm
 echo "Sucessfully updated your system!!!"
 
 #This is to install AUR helper Yay and Curl
-https://github.com/Jguer/yay.git
+git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 sudo pacman -S curl

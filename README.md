@@ -8,10 +8,10 @@ I have also included my own config files in this that is customized to my own li
 
 To Get Started:
 ```bash
-sudo pacman -S git <br>
-git clone <br> https://github.com/sanjivthapasvt/ArchLinux.git <br>
-cd ArchLinux <br>
-chmod +x install.sh <br>
-./install.sh <br>
-'''bash
+sudo pacman -S git
+git clone https://github.com/sanjivthapasvt/ArchLinux.git
+cd ArchLinux
+chmod +x install.sh
+./install.sh
+'''
 Thank you have fun!!

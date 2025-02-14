@@ -19,6 +19,6 @@ chmod +x install.sh
 
 ./install.sh
 
-'''
+```
 
 Thank you have fun!!

@@ -7,11 +7,11 @@ I created this script just for my personal use if you want to use it you can als
 I have also included my own config files in this that is customized to my own liking you can clone this repositry and put the files in ~/.config to use my setup
 
 To Get Started:
-<code>
+```bash
 sudo pacman -S git <br>
 git clone <br> https://github.com/sanjivthapasvt/ArchLinux.git <br>
 cd ArchLinux <br>
 chmod +x install.sh <br>
 ./install.sh <br>
-</code>
+'''bash
 Thank you have fun!!
